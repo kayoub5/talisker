@@ -1,4 +1,5 @@
 {
+  "renovateFork": true,
   "pip_setup": {
     "enabled": true
   }

@@ -166,7 +166,7 @@ setup(
         'statsd>=3.2.1,<4.0',
         'requests>=2.10.0,<3.0',
         'raven>=5.27.1,<7.0',
-        'future>=0.15.2,<0.17',
+        'future>=0.15.2, <0.18',
         'ipaddress>=1.0.16,<2.0;python_version<"3.3"',
     ],
     keywords=[
